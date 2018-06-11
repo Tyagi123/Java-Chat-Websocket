@@ -3,7 +3,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.hascode.tutorial</groupId>
+    <groupId>com.chatapp.tutorial</groupId>
     <artifactId>javaee7-websocket-chat</artifactId>
     <version>1.0.0</version>
     <packaging>war</packaging>
@@ -81,7 +81,7 @@
                     <autoDelete>true</autoDelete>
                     <port>8080</port>
                     <name>${project.artifactId}</name>
-                    <contextRoot>hascode</contextRoot>
+                    <contextRoot>chatapp</contextRoot>
                 </configuration>
                 <executions>
                     <execution>
