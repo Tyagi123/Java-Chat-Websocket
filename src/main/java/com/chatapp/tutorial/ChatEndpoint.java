@@ -1,4 +1,4 @@
-package com.hascode.tutorial;
+package com.chatapp.tutorial;
 
 import javax.websocket.EncodeException;
 import javax.websocket.OnMessage;
